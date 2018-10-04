@@ -1,5 +1,5 @@
-#BasicBlockExtraction
-Basic Block Extraction from Execution Trace Using Pintool, which was part of my research project over the summer
+# BasicBlockExtraction
+# Basic Block Extraction from Execution Trace Using Pintool, which was part of my research project over the summer
 ● Parse the execution trace into instruction addresses,
 opcodes and operands
 ● Mark the boundary of each block as begin and end which
